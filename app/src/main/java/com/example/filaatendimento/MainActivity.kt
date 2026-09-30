@@ -1,4 +1,4 @@
-git --versionpackage com.example.filaatendimento
+package com.example.filaatendimento
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
